@@ -33,7 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         </div>
         <div class="col-md-3 d-flex">
             <div class="info bg-white p-4">
-              <p><span>Website</span> www.almalikicorps.com</p>
+              <p><span>Website</span> www.wedialmalikicorps.com</p>
             </div>
         </div>
       </div>

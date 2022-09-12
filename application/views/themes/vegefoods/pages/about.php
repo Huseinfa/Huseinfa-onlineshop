@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
           <div class="container">
               <div class="row">
                   <div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(<?php echo get_theme_uri('images/about.jpg'); ?>);">
-                      <a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
+                      <a href="https://www.youtube.com/watch?v=ohHYABXMqUQ" class="icon popup-vimeo d-flex justify-content-center align-items-center">
                           <span class="icon-play"></span>
                       </a>
                   </div>
